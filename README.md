@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Shahil 👋
 
-<!--
-**bigDaww/bigDaww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS undergrad (B.E., 2026) who builds LLM-powered products and ships them end to end.
+I'm interested in how AI agents behave and how to make their output reliable.
 
-Here are some ideas to get you started:
+## What I've built
+- **[CoraHQ](https://corahq.online)**: GEO/SEO tool that helps creators get cited in AI search (Anthropic API, Supabase)
+- **[OutLinked](https://github.com/bigDaww/anon-feed)**: anonymous LinkedIn-style network, posts auto-delete after 24h (TypeScript)
+- **Netra**: macOS notch app with clipboard management, playback controls and an LLM usage tracker (SwiftUI)
+- **[iamlagging](https://github.com/bigDaww/iamlagging)**: desktop tray app that simulates bad internet
+- **Reel Captioner**: Python CLI that transcribes video and adds animated captions (faster-whisper, moviepy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+Python · C++ · JavaScript/TypeScript · SwiftUI · Three.js · Supabase · Anthropic API
+
+## Contact
+(https://shahilyadav.online) · shahilyadav2912@gmail.com
